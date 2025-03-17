@@ -14,8 +14,8 @@ The script generates an image of a tournament bracket based on the specified num
      sudo apt-get install php-gd
 
 4. Run the script:
- php scripts/generatebracket.php <numberof_teams>
-Replace <number_of_teams> with the desired number of teams.  
+ php scripts/generatebracket.php <numberof_teams> /n
+Replace <number_of_teams> with the desired number of teams.  /n
 For example: php scripts/generate_bracket.php 8
 
 
